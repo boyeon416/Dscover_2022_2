@@ -1,5 +1,4 @@
 # Dscover_2022_2
-```markdown
 <!-- Heading -->
 # Heading 1
 ## Heading 2
@@ -38,4 +37,4 @@ Click [Here](http://academy.dream-coding.com/)
 
 <!-- Image -->
 ![image description](https://user-images.githubusercontent.com/61736137/102153953-b2881000-3ebb-11eb-9581-7026bc8e169e.jpg)
-```
+
